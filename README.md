@@ -1,2 +1,2 @@
-The integration between Teamcenter (Siemens DIS) and Yandex Alice (Russian voice assistant) 
+The integration of Teamcenter (Siemens DIS) and Yandex Alice (Russian voice assistant) 
 More details will be soon
